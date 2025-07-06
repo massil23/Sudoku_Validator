@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Validateur de Sudoku Multi-threadé
 
 Un programme en C qui valide des grilles de Sudoku 9x9 en utilisant des threads pour améliorer les performances.
@@ -89,3 +90,5 @@ make clean
 ## Auteur
 Massil Zadoud
 Projet réalisé dans le cadre du cours INF3173 à l'UQAM.
+=======
+
