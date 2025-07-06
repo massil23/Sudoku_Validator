@@ -1,3 +1,14 @@
+/**
+ * Ce fichier contient toutes les déclarations de structures, constantes,
+ * fonctions et variables globales nécessaires pour le validateur de Sudoku
+ * utilisant une architecture multi-threadée avec pthreads.
+ * 
+ * @author Massil Zadoud
+ * @date Juillet 2025
+ * INF3173 - Principes des systèmes d'exploitation
+ * Université du Québec à Montréal
+ */
+
 #ifndef SUDOKU_VALIDATOR_H
 #define SUDOKU_VALIDATOR_H
 
